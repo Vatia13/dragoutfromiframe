@@ -1,3 +1,9 @@
+/*!
+ * Author: Vati Child
+ * Date: 6 august, 2017
+ * E-mail: vatia0@gmail.com
+ */
+
 $.fn.dragOutFromIframe = function(options){
 
 	var settings = $.extend({
