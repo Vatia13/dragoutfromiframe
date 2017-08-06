@@ -9,7 +9,6 @@ $.fn.dragOutFromIframe = function(options){
 	var settings = $.extend({
 		document:$('body'), //element to append cloned target
 		target:'', //target inside iframe to drag
-		clone:'', //cloned target in main document
 		draggable: {
             cancel: "a.ui-icon", // clicking an icon won't initiate dragging
             containment: "document",
